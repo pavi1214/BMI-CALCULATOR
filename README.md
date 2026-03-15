@@ -6,10 +6,10 @@ This tool allows users to quickly check whether they fall under Underweight, Nor
 
 ⭐ Features
 
-Easy input for height and weight
-Instant BMI calculation
-Clear result with BMI category
-Clean and responsive UI
+Easy input for height and weight ,
+Instant BMI calculation ,
+Clear result with BMI category ,
+Clean and responsive UI .
 
 🚀 Technologies Used
 
